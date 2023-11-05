@@ -15,4 +15,6 @@ IG_UI_FR = {
 	IGUI_VehiclePartM923Mudflaps = "Garde-boues",
 	IGUI_VehiclePartM923CabCovers = "Bâche d'armature",
 	IGUI_VehiclePartM923GuntruckArmor = "Blindage de tourelle armée",
+
+	IGUI_CraftCategory_M923 = "'83 AM General M923",
 }
