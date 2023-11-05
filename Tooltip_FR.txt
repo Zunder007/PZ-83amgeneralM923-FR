@@ -1,0 +1,18 @@
+Tooltip_FR = {
+	Tooltip_item_runflats = "Pneus militaires universels qui n'éclateront jamais mais perdront de la traction lorsqu'ils se dégraderont.",
+	Tooltip_item_M923Axleflats = "Essieu arrière M923 composé de 2 pneus militaires qui n'éclateront jamais mais perdront de la traction lorsqu'ils se dégraderont.",
+	Tooltip_item_M923Muffler1 = "Réduit quelque peu le bruit du moteur.",
+	Tooltip_item_M923Stakes1 = "Article cosmétique, construction de piquets pour plateau M923.",
+	Tooltip_item_M923Bumper1 = "Fixez-le à l'avant du M923 pour protéger quelque peu le capot et le moteur.",
+	Tooltip_item_M923Bumper2 = "Fixez-le à l'avant du M923 pour protéger entièrement le capot et le moteur.",
+	Tooltip_item_M923HardCover1 = "Article cosmétique, couverture rigide pour armature M923.",
+	Tooltip_item_M923SoftCover2 = "Article cosmétique, bâche souple pour armature M923.",
+	Tooltip_item_M923Windshield2 = "Vous pouvez utiliser un scalpel pour couper des pare-brise robustes ordinaires afin de remplacer le pare-brise M923..",
+	Tooltip_item_M923SideWindow2 = "Vous pouvez utiliser un scalpel pour couper des vitres robustes ordinaires afin de remplacer les vitres M923.",
+	Tooltip_item_M923Gunport2 = "Ports d'armes métalliques utilisés à l'arrière du M923.",
+	Tooltip_item_M923WindshieldArmor1 = "Fixez-le à l'avant du M923 pour protéger le pare-brise.",
+	Tooltip_item_M923DoorArmor1 = "Fixez-le aux portières M923 pour protéger les portières et vitres.",
+	Tooltip_item_M923GuntruckArmor1 = "Utilisé comme base pour les ports d'armes et les sièges, installé sur le plateau.",
+	Tooltip_item_M923SpareMount1 = "Utilisé pour monter la roue de secours à l'arrière de l'armature du M923.",
+	Tooltip_item_M923Mudflaps1 = "Article cosmétique, protège le gars derrière vous de la poussière et de la boue.",
+}
