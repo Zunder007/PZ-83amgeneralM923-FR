@@ -1,0 +1,18 @@
+IG_UI_FR = {
+	IGUI_VehicleName83amgeneralM923 = "'83 AM General M923 Hillbilly",
+	IGUI_VehicleName83amgeneralM923Burnt = "'83 AM General M923 Brûlé",
+
+	IGUI_VehiclePartM923SpareTire = "Pneu de secours",
+	IGUI_VehiclePartM923SpareMount = "Support de pneu de secours",
+	IGUI_VehiclePartM923Stakes = "Piquets de plateau",
+	IGUI_VehiclePartM923DoorLeftArmor = "Blindage de portière avant gauche",
+	IGUI_VehiclePartM923DoorRightArmor = "Blindage de portière avant droite",
+	IGUI_VehiclePartM923WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartM923Bumper = "Pare-chocs",
+	IGUI_VehiclePartM923Trunk = "Stockage de plateau",
+	IGUI_VehiclePartM923Storage = "Rangement latéral",
+	IGUI_VehiclePartM923StorageDoor = "Fermeture de rangement latéral",
+	IGUI_VehiclePartM923Mudflaps = "Garde-boues",
+	IGUI_VehiclePartM923CabCovers = "Bâche d'armature",
+	IGUI_VehiclePartM923GuntruckArmor = "Blindage de tourelle armée",
+}
