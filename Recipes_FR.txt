@@ -1,0 +1,16 @@
+Recipes_FR = {
+	Recipe_Make_M923_Door_Armor = "Fabriquer Blindage de portière",
+	Recipe_Make_M923_Flatbed_Stakes = "Fabriquer Piquets de plateau",
+	Recipe_Make_M923_Gunport = "Fabriquer Port de tourelle armée",
+	Recipe_Make_M923_Guntruck_Armor = "Fabriquer Blindage de tourelle armée",
+	Recipe_Make_M923_Hillbilly_Bumper = "Fabriquer Pare-chocs",
+	Recipe_Make_M923_Muffler = "Fabriquer Silencieux",
+	Recipe_Make_M923_Muffler_1 = "Fabriquer Silencieux",
+	Recipe_Make_M923_Muffler_2 = "Fabriquer Silencieux",
+	Recipe_Make_M923_Rear_Seat = "Fabriquer Siège arrière",
+	Recipe_Make_M923_RunFlat_2_Tire_Axle = "Fabriquer Essieu de pneu anti-crevaison x2",
+	Recipe_Make_M923_Side_Window = "Fabriquer Vitre latérale",
+	Recipe_Make_M923_Small_Bumper = "Fabriquer Petit pare-chocs",
+	Recipe_Make_M923_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_M923_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+}
