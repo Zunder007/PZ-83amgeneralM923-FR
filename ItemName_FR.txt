@@ -22,4 +22,7 @@ ItemName_FR = {
 	ItemName_Base.M923Trunkdoor2 = "M923 Coffre",
 	ItemName_Base.M923Windshield2 = "M923 Pare-brise",
 	ItemName_Base.M923WindshieldArmor1_Item = "M923 Blindage de pare-brise",
+
+	ItemName_Base.V100Tire2 = "Pneu anti-crevaison",
+	ItemName_USMIL.Seat0 = "Siège de véhicule militaire américain",
 }
